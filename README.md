@@ -52,6 +52,10 @@
 ![오토스케일아웃3](https://user-images.githubusercontent.com/53261680/92072141-80aadc00-edeb-11ea-9c2f-21509ef60e4f.PNG)
 
 ### 7. 무정지배포
- - readiness probe 가 적용된 상태에서 배포를 해도 availability가 100% 인 것을 볼 수 있다.
+- readiness probe 가 미적용된 상태에서는 배포시, availability가 떨어진 것을 볼 수 있다.
+![무정지배포1](https://user-images.githubusercontent.com/53261680/92072905-40e4f400-eded-11ea-9848-0eef7a196b7b.PNG)
+![무정지배포2](https://user-images.githubusercontent.com/53261680/92072911-42162100-eded-11ea-9faf-6eb0c115494d.PNG)
+
+- readiness probe 가 적용된 상태에서 배포를 해도 availability가 100% 인 것을 볼 수 있다.
 ![무정지배포](https://user-images.githubusercontent.com/53261680/92070199-60c4e980-ede6-11ea-9e8e-df685b8a8adf.PNG)
 
