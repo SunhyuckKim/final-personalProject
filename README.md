@@ -41,9 +41,13 @@
 
 
 ### 6. AutoScale out
- - autoscale out 적용
-![오토스케일아웃](https://user-images.githubusercontent.com/53261680/92070262-818d3f00-ede6-11ea-841c-7d2e713338c9.PNG)
+ - autoscale out 적용후, seige로 부하 발생하였을때, replica가 증가하는 것을 확인할 수 있다.
+![오토스케일아웃](https://user-images.githubusercontent.com/53261680/92072059-4fcaa700-edeb-11ea-807e-3138bfaa9b7e.PNG)
+![오토스케일아웃2](https://user-images.githubusercontent.com/53261680/92072063-50fbd400-edeb-11ea-9e2d-b5aca92cac5b.PNG)
 
+- pod 증가 확인
+
+![오토스케일아웃3](https://user-images.githubusercontent.com/53261680/92072141-80aadc00-edeb-11ea-9c2f-21509ef60e4f.PNG)
 
 ### 7. 무정지배포
  - readiness probe 가 적용된 상태에서 배포를 해도 availability가 100% 인 것을 볼 수 있다.
