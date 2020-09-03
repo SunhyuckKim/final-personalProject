@@ -59,3 +59,6 @@
 - readiness probe 가 적용된 상태에서 배포를 해도 availability가 100% 인 것을 볼 수 있다.
 ![무정지배포](https://user-images.githubusercontent.com/53261680/92070199-60c4e980-ede6-11ea-9e8e-df685b8a8adf.PNG)
 
+
+
+
