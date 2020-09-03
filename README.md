@@ -36,7 +36,7 @@
 
 ### 5. CQRS
  - 생성된 유저의 이름을 별도의 view로 확인할 수 있다.
-![CQRS](https://user-images.githubusercontent.com/53261680/92070127-38d58600-ede6-11ea-92a5-301468a8136e.PNG)
+![CQRS](https://user-images.githubusercontent.com/53261680/92070623-856d9100-ede7-11ea-83ef-87f148ecb6af.PNG)
 
 
 ### 6. AutoScale out
