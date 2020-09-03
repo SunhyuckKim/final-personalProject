@@ -60,5 +60,12 @@
 ![무정지배포](https://user-images.githubusercontent.com/53261680/92070199-60c4e980-ede6-11ea-9e8e-df685b8a8adf.PNG)
 
 
+### 8. 서킷 브레이크
+- 송신쪽에 hytrix 설정
+
+![서킷브레이크](https://user-images.githubusercontent.com/53261680/92075781-311cde00-edf4-11ea-91b0-ad4537e4db96.PNG)
+
+![서킷브레이크2](https://user-images.githubusercontent.com/53261680/92075860-56115100-edf4-11ea-9a26-60a2ea7517ae.PNG)
+
 
 
