@@ -31,11 +31,14 @@
 
 
 ### 4. 게이트웨이
+![게이트웨이 인증](https://user-images.githubusercontent.com/53261680/92065837-5ea95d80-eddb-11ea-8f25-d596648c0d9a.PNG)
+![게이트웨이 인증2](https://user-images.githubusercontent.com/53261680/92065839-5f41f400-eddb-11ea-848e-59ccb523ed0b.PNG)
+
+### 5. CQRS
+
+
+### 6. AutoScale out
 
 
 
-### 5. AutoScale out
-
-
-
-6. 무정지배포
+### 7. 무정지배포
