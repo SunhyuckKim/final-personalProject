@@ -8,8 +8,10 @@
 ## 팀과제 완성된 모형
 ![완성1](https://user-images.githubusercontent.com/25577890/91920135-1f0f4280-ed03-11ea-8a73-a0f939928ead.PNG)
 
-## 서비스 
-![이벤트 스토밍](https://user-images.githubusercontent.com/53261680/92063969-6109b880-edd7-11ea-8a30-73afb2a287c8.PNG)
+## 추가된 서비스 
+- 고객이 등록되었을때, 안내책자 발송 및 취소를 하는 서비스를 추가
+![이벤트 스토밍](https://user-images.githubusercontent.com/53261680/92072213-ac2dc680-edeb-11ea-9b43-de3ddce7878d.PNG)
+
 
 ### 2. 비동기 호출
  - 수신쪽 pod삭제후, 비동기 호출
